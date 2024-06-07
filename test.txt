@@ -1,0 +1,36 @@
+mal_id:20707
+url:https://myanimelist.net/anime/20707/-
+images:{'jpg': {'image_url': 'https://cdn.myanimelist.net/images/anime/12/81160.jpg', 'small_image_url': 'https://cdn.myanimelist.net/images/anime/12/81160t.jpg', 'large_image_url': 'https://cdn.myanimelist.net/images/anime/12/81160l.jpg'}, 'webp': {'image_url': 'https://cdn.myanimelist.net/images/anime/12/81160.webp', 'small_image_url': 'https://cdn.myanimelist.net/images/anime/12/81160t.webp', 'large_image_url': 'https://cdn.myanimelist.net/images/anime/12/81160l.webp'}}
+trailer:{'youtube_id': None, 'url': None, 'embed_url': None, 'images': {'image_url': None, 'small_image_url': None, 'medium_image_url': None, 'large_image_url': None, 'maximum_image_url': None}}
+approved:True
+titles:[{'type': 'Default', 'title': '"0"'}, {'type': 'Synonym', 'title': '"Zero"'}, {'type': 'Japanese', 'title': '「0」'}]
+title:"0"
+title_english:None
+title_japanese:「0」
+title_synonyms:['"Zero"']
+type:Music
+source:Original
+episodes:1
+status:Finished Airing
+airing:False
+aired:{'from': '2013-09-11T00:00:00+00:00', 'to': None, 'prop': {'from': {'day': 11, 'month': 9, 'year': 2013}, 'to': {'day': None, 'month': None, 'year': None}}, 'string': 'Sep 11, 2013'}
+duration:4 min
+rating:G - All Ages
+score:4.69
+scored_by:2390
+rank:None
+popularity:9155
+members:4082
+favorites:4
+synopsis:This music video tells how a shy girl with a secret love and curiosity about what surrounds her works.
+background:
+season:None
+year:None
+broadcast:{'day': None, 'time': None, 'timezone': None, 'string': None}
+producers:[{'mal_id': 757, 'type': 'anime', 'name': 'Sony Music Entertainment', 'url': 'https://myanimelist.net/anime/producer/757/Sony_Music_Entertainment'}]
+licensors:[]
+studios:[{'mal_id': 1725, 'type': 'anime', 'name': 'Minakata Laboratory', 'url': 'https://myanimelist.net/anime/producer/1725/Minakata_Laboratory'}]
+genres:[]
+explicit_genres:[]
+themes:[{'mal_id': 19, 'type': 'anime', 'name': 'Music', 'url': 'https://myanimelist.net/anime/genre/19/Music'}]
+demographics:[]
