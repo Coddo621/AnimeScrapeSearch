@@ -1,2 +1,1 @@
 # AnimeScrapeSearch
-## [ASS]
