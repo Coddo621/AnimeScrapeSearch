@@ -1,0 +1,2 @@
+anime_api==1.0.2
+jikanpy_v4==1.0.2
